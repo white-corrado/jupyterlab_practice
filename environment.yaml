@@ -1,0 +1,5 @@
+name: a7_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /opt/miniconda3/envs/a7_env
